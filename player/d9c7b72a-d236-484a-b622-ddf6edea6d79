@@ -1,20 +1,20 @@
 { 
    "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79",
-   "username":Serversided,
+   "username":null,
    "cosmetics":{ 
-      "bakasweed":{ 
-         "name":"bakasweed",
+      "devilemoji":{ 
+         "name":"devilemoji",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/bakasweed.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/devilemoji.png"
 },
-      "green":{ 
-         "name":"green",
+      "indigo":{ 
+         "name":"indigo",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/green.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/indigo.png"
       }
    }
 }
