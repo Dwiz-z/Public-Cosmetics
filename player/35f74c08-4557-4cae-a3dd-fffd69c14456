@@ -2,19 +2,19 @@
    "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
    "username":null,
    "cosmetics":{ 
-      "weebs":{ 
-         "name":"weebs",
+      "lunar_client_2":{ 
+         "name":"lunar_client_2",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/weebs.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/lunar_client_2.png"
 },
-      "turqoise":{ 
-         "name":"turqoise",
+      "purple":{ 
+         "name":"purple",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/turquoise.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/purple.png"
       }
    }
 }
