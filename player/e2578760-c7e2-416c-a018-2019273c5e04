@@ -1,0 +1,20 @@
+{ 
+   "uuid":"e2578760-c7e2-416c-a018-2019273c5e04",
+   "username":smahrt,
+   "cosmetics":{ 
+      "twitch_1":{ 
+         "name":"twitch_1",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/twitch_1.png"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/purple.png"
+      }
+   }
+}
