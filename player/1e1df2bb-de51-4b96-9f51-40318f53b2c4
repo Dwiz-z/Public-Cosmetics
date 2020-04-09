@@ -1,0 +1,10 @@
+{ 
+   "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
+   "username":null,
+   "cosmetics":{ 
+      "southkorea":{ 
+         "name":"southkorea",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/southkorea.png"
