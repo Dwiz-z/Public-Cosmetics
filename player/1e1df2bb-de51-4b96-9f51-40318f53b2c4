@@ -8,3 +8,13 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/southkorea.png"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/purple.png"
+      }
+   }
+}
