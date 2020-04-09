@@ -1,0 +1,20 @@
+{ 
+   "uuid":"1b874fb0-f2a0-43eb-ba7b-cd2220acd7e9",
+   "username":null,
+   "cosmetics":{ 
+      "Hydra":{ 
+         "name":"Hydra",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/Hydra.png"
+},
+      "pink":{ 
+         "name":"pink",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
+      }
+   }
+}
