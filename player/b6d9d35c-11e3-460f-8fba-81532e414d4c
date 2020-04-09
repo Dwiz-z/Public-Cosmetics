@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/christmasred.png"
 },
-      "pink":{ 
-         "name":"pink",
+      "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/red.png"
       }
    }
 }
