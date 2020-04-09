@@ -1,0 +1,20 @@
+{ 
+   "uuid":"b6d9d35c-11e3-460f-8fba-81532e414d4c",
+   "username":null,
+   "cosmetics":{ 
+      "christmasblue":{ 
+         "name":"christmasblue",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/christmasblue.png"
+},
+      "blue":{ 
+         "name":"blue",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/blue.png"
+      }
+   }
+}
