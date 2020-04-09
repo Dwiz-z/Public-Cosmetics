@@ -1,0 +1,21 @@
+{ 
+   "uuid":"b6d9d35c-11e3-460f-8fba-81532e414d4c",
+   "username":null,
+   "cosmetics":{ 
+      "Hydra":{ 
+         "name":"Hydra",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/Hydra.png"
+},
+      "pink":{ 
+         "name":"pink",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
+      }
+   }
+}
+© 2020 GitHub, Inc.
