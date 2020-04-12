@@ -2,19 +2,19 @@
    "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
    "username":null,
    "cosmetics":{ 
-      "smahrt's cape":{ 
-         "name":"smahrt's cape",
+      "Hydra":{ 
+         "name":"Hydra",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/smahrt's%20cape.jpg"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/Hydra.png"
 },
-      "bone":{ 
-         "name":"bone",
+      "pink":{ 
+         "name":"pink",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/bone.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
       }
    }
 }
