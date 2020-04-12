@@ -2,19 +2,19 @@
    "uuid":"00a3efcd-9962-4bad-a9a3-7f51c1aeba43",
    "username":null,
    "cosmetics":{ 
-      "Hydra":{ 
-         "name":"Hydra",
+      "pride":{ 
+         "name":"pride",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/Hydra.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/pride.png"
 },
-      "pink":{ 
-         "name":"pink",
+      "red":{ 
+         "name":"red",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/red.png"
       }
    }
 }
