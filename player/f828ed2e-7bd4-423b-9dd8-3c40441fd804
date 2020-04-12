@@ -1,0 +1,20 @@
+{ 
+   "uuid":"f828ed2e-7bd4-423b-9dd8-3c40441fd804",
+   "username":null,
+   "cosmetics":{ 
+      "clowncape":{ 
+         "name":"clowncape",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/clowncape.png"
+},
+      "bone":{ 
+         "name":"bone",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/bone.png"
+      }
+   }
+}
