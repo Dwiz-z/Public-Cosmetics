@@ -2,12 +2,12 @@
    "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
    "username":null,
    "cosmetics":{ 
-      "king":{ 
-         "name":"king",
+      "season_2_gapple":{ 
+         "name":"season_2_gapple",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/king.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/season_2_gapple.png"
 },
       "butterfly_2":{ 
          "name":"butterfly_2",
