@@ -2,12 +2,12 @@
    "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
    "username":null,
    "cosmetics":{ 
-      "2019":{ 
-         "name":"2019",
+      "pinkawarenessheart":{ 
+         "name":"pinkawarenessheart",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/2019.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/pinkawarenessheart.png"
 },
       "pink":{ 
          "name":"pink",
