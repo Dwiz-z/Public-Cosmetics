@@ -2,12 +2,12 @@
    "uuid":"35f74c08-4557-4cae-a3dd-fffd69c14456",
    "username":null,
    "cosmetics":{ 
-      "voltage":{ 
+      "2019":{ 
          "name":"voltage",
-         "type":"cape",
+         "type":"2019",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/voltage.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/2019.png"
 },
       "pink":{ 
          "name":"pink",
