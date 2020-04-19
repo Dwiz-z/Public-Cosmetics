@@ -1,0 +1,20 @@
+{ 
+   "uuid":"a7f1f422-7df5-4f67-bcd3-a59a5d823967",
+   "username":null,
+   "cosmetics":{ 
+      "2016":{ 
+         "name":"2016",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/2016.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/black.png"
+      }
+   }
+}
