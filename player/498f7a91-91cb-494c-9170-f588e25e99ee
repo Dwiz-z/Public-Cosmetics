@@ -1,0 +1,20 @@
+{ 
+   "uuid":"498f7a91-91cb-494c-9170-f588e25e99ee",
+   "username":null,
+   "cosmetics":{ 
+      "venezuela":{ 
+         "name":"venezuela",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/venezuela.png"
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/red.png"
+      }
+   }
+}
