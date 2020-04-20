@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/capes/Hannahxxrose.png"
 },
-      "black":{ 
-         "name":"black",
+      "pink":{ 
+         "name":"pink",
          "type":"dragon_wings",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/Dwiz-z/Public-Cosmetics/master/cosmetics/wings/pink.png"
       }
    }
 }
